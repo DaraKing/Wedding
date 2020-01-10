@@ -68,7 +68,7 @@
                                     </a>
 
                                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-                                        @if(Auth::user()->role_id != 3)
+                                        @if(Auth::user()->role_id != 1)
                                             <a href="{{ route('admin.index') }}" class="dropdown-item">
                                                 Admin panel
                                             </a>

@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f3c5f72-3664-4647-8132-e7e8990b12b9" name="Default Changelist" comment="" />
+    <list default="true" id="1f3c5f72-3664-4647-8132-e7e8990b12b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/single-music-group.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/single-music-group.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +26,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -113,6 +122,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1VZjUPHYMnCV991z0gIXvSXNoTU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -177,7 +187,11 @@
       <workItem from="1577803008135" duration="260000" />
       <workItem from="1578058780067" duration="5012000" />
       <workItem from="1578065823122" duration="172000" />
-      <workItem from="1578075627406" duration="2581000" />
+      <workItem from="1578075627406" duration="2787000" />
+      <workItem from="1578227605156" duration="503000" />
+      <workItem from="1578328537787" duration="1497000" />
+      <workItem from="1578384898475" duration="12000" />
+      <workItem from="1578676576203" duration="3169000" />
     </task>
     <servers />
   </component>
@@ -205,9 +219,18 @@
       <screen x="1344" y="0" width="1920" height="1080" />
     </state>
     <state x="1954" y="279" width="759" height="697" maximized="true" key="dock-window-3/0.1080.1920.1080/1344.0.1920.1080@0.1080.1920.1080" timestamp="1578063903801" />
-    <state x="657" y="1337" width="672" height="678" key="search.everywhere.popup" timestamp="1578079262139">
-      <screen x="0" y="1080" width="1920" height="1080" />
+    <state x="640" y="283" width="709" height="538" key="find.popup" timestamp="1578678225854">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state x="640" y="283" width="709" height="538" key="find.popup/69.27.1851.1053@69.27.1851.1053" timestamp="1578678225854" />
+    <state x="658" y="253" key="run.anything.popup" timestamp="1578679876862">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state x="658" y="253" key="run.anything.popup/69.27.1851.1053@69.27.1851.1053" timestamp="1578679876862" />
+    <state x="702" y="278" width="672" height="662" key="search.everywhere.popup" timestamp="1578679216544">
+      <screen x="69" y="27" width="1851" height="1053" />
     </state>
     <state x="657" y="1337" width="672" height="678" key="search.everywhere.popup/0.1080.1920.1080/1344.0.1920.1080@0.1080.1920.1080" timestamp="1578079262139" />
+    <state x="702" y="278" width="672" height="662" key="search.everywhere.popup/69.27.1851.1053@69.27.1851.1053" timestamp="1578679216544" />
   </component>
 </project>

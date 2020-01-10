@@ -18,6 +18,8 @@
             <input type="text" id="name" name="name" class="form-control" value="{{$group->name}}">
         </div>
 
+        <img src="{{asset('uploads'.'/'.$group->image)}}" class="card-img-top" alt="..." style="width: 250px; height: 250px;">
+
         <div class="form-group">
             <label for="exampleFormControlFile1">Slika</label>
             <input type="file" class="form-control-file" id="exampleFormControlFile1" name="image">
